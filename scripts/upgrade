@@ -267,5 +267,5 @@ ynh_send_readme_to_admin --app_message="mail_to_send" --recipients=root --type=u
 #=================================================
 # END OF SCRIPT
 #=================================================
-
+ynh_script_progression --message="test du commit sur afoos1"
 ynh_script_progression --message="Upgrade of $app completed" --last
